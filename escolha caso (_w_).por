@@ -23,3 +23,4 @@ leia (opcao)
     }
   }
 }
+//eu não vou mais suportaaaaar mais uma noite fria, vem me ver, vem me aquecer, é dificil esconder a dor da ausencia quem me ve logo percebee
